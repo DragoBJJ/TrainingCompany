@@ -1,0 +1,1 @@
+const ALX = new FirmaSzkoleniowa();
